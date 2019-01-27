@@ -8,9 +8,9 @@ from pandas import Series, DataFrame
 import pandas as pd
 
 # 可視化モジュール
-import matplotlib.pyplot as plt
-import matplotlib as mpl
-import seaborn as sns
+#import matplotlib.pyplot as plt
+#import matplotlib as mpl
+#import seaborn as sns
 # 機械学習モジュール
 import sklearn
 import pickle
